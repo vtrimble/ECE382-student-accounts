@@ -11,7 +11,9 @@ Link to accounts for ECE382 students.
 
 - [Matthew Bergstedt](https://github.com/mbergstedt)
 - [Austin Bolinger](https://github.com/Austinbolinger)
+- [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Kevin Cabusora](https://github.com/KevinCabusora)
+- [Clayton Jaksha]
 - [Christopher Kiernan](https://github.com/ChrisMKiernan)
 - [Jacob Lawson](https://github.com/JacobLawson)
 - [Alexander Leaf](https://github.com/apleaf)
@@ -22,12 +24,13 @@ Link to accounts for ECE382 students.
 
 ## M6
 
-- [Jasper Arneberg](https://github.com/JasperArneberg)
+
 - [Taylor Bodin](https://github.com/taylorbodin)
 - [Jeremy Gruszka]( https://github.com/JeremyGruszka)
 - [Joshua Hayden](https://github.com/JoshuaHayden)
 - [Hunter Her](https://github.com/vipersfly23)
 - [Kyle Jonas](https://github.com/KyleJonas)
+- [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Sabin Park](https://github.com/sabinpark)
 - [Evan Richter]
 - [Nathan Ruprecht](https://github.com/NathanRuprecht)
@@ -35,12 +38,11 @@ Link to accounts for ECE382 students.
 
 ## T5
 
+- [Jasper Arneberg](https://github.com/JasperArneberg)
 - [Sean Bapty](https://github.com/seanbapty)
-- [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Hazma El-Saawy](https://github.com/hamzaelsaawy)
 - [Sean Gavan](https://github.com/SeanGavan)
 - [Ian Goodbody](https://github.com/IanGoodbody)
-- [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Cassandra McPeek](https://github.com/CassieMcPeek)
 - [Justin Niquette]
 - [Aaron Stolze](https://github.com/aaronstolze)
