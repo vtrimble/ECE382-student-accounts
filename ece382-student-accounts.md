@@ -44,7 +44,7 @@ Link to accounts for ECE382 students.
 - [Sean Gavan](https://github.com/SeanGavan)
 - [Ian Goodbody](https://github.com/IanGoodbody)
 - [Cassandra McPeek](https://github.com/CassieMcPeek)
-- [Justin Niquette]
+- [Justin Niquette](https://github.com/JNiquette)
 - [Aaron Stolze](https://github.com/aaronstolze)
 - [John Terragnoli](https://github.com/JohnTerragnoli)
 - [Brian Yarbrough](https://github.com/byarbrough)
