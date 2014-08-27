@@ -32,7 +32,7 @@ Link to accounts for ECE382 students.
 - [Kyle Jonas](https://github.com/KyleJonas)
 - [Erica Lewandowski](https://github.com/EricaLewandowski)
 - [Sabin Park](https://github.com/sabinpark)
-- [Evan Richter]
+- [Evan Richter](https://github.com/evanrichter)
 - [Nathan Ruprecht](https://github.com/NathanRuprecht)
 - [Eric Wardner](https://github.com/EricWardner)
 
