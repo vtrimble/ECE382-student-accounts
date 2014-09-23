@@ -14,7 +14,7 @@ ECE382 student account links
 - [Austin Bolinger](https://github.com/Austinbolinger)
 - [Gytenis Borusas](https://www.github.com/gytenis98)
 - [Kevin Cabusora](https://github.com/KevinCabusora)
-- [Clayton Jaksha]
+- [Clayton Jaksha](https://github.com/ClaytonJaksha)
 - [Christopher Kiernan](https://github.com/ChrisMKiernan)
 - [Jacob Lawson](https://github.com/JacobLawson)
 - [Alexander Leaf](https://github.com/apleaf)
